@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in NPCI as SDE<br>👯 I’m looking to collaborate on FastAPI<br>🤝 I’m looking for help to improve my Front-End Skills<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Python and FastAPI<br>⚡ Fun fact: I don't like snakes but I love Python
+🔭 currently working in NPCI as SDE<br>👯 looking to collaborate on FastAPI<br>🤝 looking for help to improve my Front-End Skills<br>🌱 currently learning ReactJS<br>💬 Ask me about Python and FastAPI<br>⚡ Fun fact: I don't like snakes but I love Python
 
 
 ## 🌐 Socials:
