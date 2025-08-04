@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working in Gloroots as SDE<br>👯 looking to collaborate on Django<br>🤝 looking for help to improve my Front-End Skills<br>🌱 currently learning ReactJS<br>💬 Ask me about Python, Django and NLP<br>
+🔭 currently working as Full Stack Developer at Gramener<br>👯 looking to collaborate on any Python & ReactJS projects<br>🤝 looking for help to improve my NLP skills<br>🌱 Currently learning NLP<br>💬 Ask me about Python, Django, FastAPI, ReactJS and NLP<br>
 
 
 ## 🌐 Socials:
