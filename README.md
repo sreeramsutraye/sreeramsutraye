@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently working in Gloroots as SDE<br>👯 looking to collaborate on Django<br>🤝 looking for help to improve my Front-End Skills<br>🌱 currently learning ReactJS<br>💬 Ask me about Python, Django and NLP<br>⚡ Fun fact: I don't like snakes but I love Python
+🔭 currently working in Gloroots as SDE<br>👯 looking to collaborate on Django<br>🤝 looking for help to improve my Front-End Skills<br>🌱 currently learning ReactJS<br>💬 Ask me about Python, Django and NLP<br>
 
 
 ## 🌐 Socials:
